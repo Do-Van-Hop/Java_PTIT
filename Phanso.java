@@ -16,5 +16,6 @@ public class Phanso {
         long t = sc.nextLong(), m = sc.nextLong();
         long tu = t / (gcd(t, m)), mau = m / (gcd(t, m));
         System.out.println(tu + "/" + mau);
+        sc.close();
     }
 }
