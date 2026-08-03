@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Lietkenhavientheochucvu {
+class Lietkenhavientheochucvu {
     static long sub(String s) {
         if (s.compareTo("GD") == 0)
             return 500;

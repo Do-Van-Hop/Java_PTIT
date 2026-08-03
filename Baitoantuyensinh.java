@@ -2,7 +2,6 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Baitoantuyensinh {
-
     private static class ThiSinh {
         private String id, name;
         private double scoreT, scoreL, scoreH, priorityScore, totalScore, sum;
